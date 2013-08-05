@@ -6,7 +6,7 @@
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #play{ background:url(playBtn.png); }
-#player #play,#player #pause{ left:32px; }
+#player #play,#player #pause{ left:32px; url(Iced-out-Silver-Crown-psd66164.png)}
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:95px;  }
